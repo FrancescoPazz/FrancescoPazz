@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.francescopazzaglia.it](www.francescopazzaglia.it)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/francesco-pazz](https://www.linkedin.com/in/francesco-pazz)
+- 📝 I regularly write and advice articles on [https://www.linkedin.com/in/francesco-pazz](https://www.linkedin.com/in/francesco-pazz)
 
 - 💬 Ask me about **React, Blazor, NextJS, Java, C, C++, C#...**
 
