@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francescopazz&label=Profile%20views&color=0e75b6&style=flat" alt="francescopazz" /> </p>
 
-- 📝 All of my projects on [https://www.linkedin.com/in/francesco-pazz](https://www.linkedin.com/in/francesco-pazz)
+- 📝 All of my projects on [https://www.linkedin.com/in/pazzagliafrancesco/](https://www.linkedin.com/in/pazzagliafrancesco)
 
 - 💬 Ask me about **React, Blazor, NextJS, Java, C, C++, C#...**
 
